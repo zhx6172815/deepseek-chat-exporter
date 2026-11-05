@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "DeepSeek Chat Exporter — Beta"
+  },
+  "extensionDescription": {
+    "message": "Save DeepSeek conversations and messages as PDF, Markdown, TXT or JSON. Free, no watermark or quota. Beta."
+  }
+}
