@@ -2,7 +2,7 @@
   "publisher": "zhx6172815",
   "product": "deepseek",
   "repo": "deepseek-chat-exporter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "edition": "free",
   "beta": true,
   "stores": {
